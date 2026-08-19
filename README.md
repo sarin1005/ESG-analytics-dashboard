@@ -2,7 +2,7 @@
 
 > **Business Analytics Industry Project**
 > 
-> This dashboard was developed as part of an industry collaboration through The University of Western Australia's Business Analytics Industry Project (BUSN5007).
+> This dashboard was developed as part of an industry collaboration through Business Analytics Industry Project.
 > 
 > An interactive Power BI dashboard designed to evaluate ESG performance using both quantitative operational metrics and qualitative sustainability assessments. The dashboard enables users to compare companies, analyse sector performance, explore ESG scores from different perspectives, and monitor an equal-weighted stock portfolio through an interactive interface.
 
